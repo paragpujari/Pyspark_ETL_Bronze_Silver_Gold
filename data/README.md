@@ -1,0 +1,1 @@
+The three CSV files in this folder are synthetic input data. Run `python generate_data.py` from the project root to regenerate them, including intentional invalid and duplicate order records.

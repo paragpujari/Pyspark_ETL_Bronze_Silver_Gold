@@ -1,0 +1,5 @@
+customer_id,customer_name,city,state,email
+C001,Aarav Sharma,Hyderabad,Telangana,aarav@example.com
+C002,Diya Reddy,Bengaluru,Karnataka,diya@example.com
+C003,Kabir Das,Bhubaneswar,Odisha,kabir@example.com
+C004,Meera Nair,Chennai,Tamil Nadu,meera@example.com
